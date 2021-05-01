@@ -1,0 +1,27 @@
+.container {
+    width: 700px;
+    margin: auto;
+}
+
+.img {
+    width: 250px;
+}
+
+.photo {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.btn {
+    color: black;
+    height: 50px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: darkolivegreen;
+    font-size: 25px;
+    cursor: move;
+
+
+
+}
